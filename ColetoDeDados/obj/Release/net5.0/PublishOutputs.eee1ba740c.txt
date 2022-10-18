@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Programas\ColetoDeDados.exe
+C:\Users\Admin\Downloads\Programas\ColetoDeDados.dll
+C:\Users\Admin\Downloads\Programas\ColetoDeDados.deps.json
+C:\Users\Admin\Downloads\Programas\ColetoDeDados.runtimeconfig.json
+C:\Users\Admin\Downloads\Programas\ColetoDeDados.pdb
+C:\Users\Admin\Downloads\Programas\ClosedXML.dll
+C:\Users\Admin\Downloads\Programas\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Downloads\Programas\ExcelNumberFormat.dll
+C:\Users\Admin\Downloads\Programas\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\Programas\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\Programas\System.IO.Packaging.dll
+C:\Users\Admin\Downloads\Programas\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\Programas\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\Programas\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
